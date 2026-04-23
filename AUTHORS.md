@@ -17,3 +17,4 @@ This is a mini-project at the Programming Club, IIT Madras. Here is the list of 
 * [Mukunthan K U](https://github.com/DoublePower12)
 * [Ruthvik Mani Sai](https://github.com/Ruthvik-mani-sai)
 * [Chaithanya P S](https://github.com/chaithanya-ps)
+* [Navanieeth TS](https://github.com/navanieethts)
